@@ -1,0 +1,4 @@
+*.m~
+*.mat
+*.fig
+.DS_Store
